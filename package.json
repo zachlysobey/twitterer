@@ -19,6 +19,7 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "koa": "^2.10.0",
     "koa-logger": "^3.2.1",
     "koa-router": "^7.4.0"
